@@ -42090,7 +42090,7 @@ fieldset:disabled .button-lg {
 }
 
 .BG {
-    background-image: url(assets/images/77.gif);
+    background-image: url(../assets/images/77.gif);
     background-size: cover;
     padding-bottom: 250px;
     padding-top: 300px;
@@ -42110,6 +42110,6 @@ fieldset:disabled .button-lg {
 }
 
 .bg-banner {
-    background-image: URL(assets/images/bg.jpg);
+    background-image: URL(../assets/images/bg.jpg);
     background-position: center;
 }
