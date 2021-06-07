@@ -42089,12 +42089,7 @@ fieldset:disabled .button-lg {
     margin-bottom: -1px
 }
 
-.BG {
-    background-image: url(../assets/images/77.gif);
-    background-size: contain;
-    padding-bottom: 250px;
-    padding-top: 300px;
-}
+
 
 .box-flex-top {
     display: flex;
