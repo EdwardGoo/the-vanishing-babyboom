@@ -42091,7 +42091,7 @@ fieldset:disabled .button-lg {
 
 .BG {
     background-image: url(../assets/images/77.gif);
-    background-size: cover;
+    background-size: contain;
     padding-bottom: 250px;
     padding-top: 300px;
 }
@@ -42113,3 +42113,4 @@ fieldset:disabled .button-lg {
     background-image: URL(../assets/images/bg.jpg);
     background-position: center;
 }
+
